@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @VisHinu24
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Software engineering
+- 🌱 I’m currently learning C programming
+- 💞️ I’m looking to collaborate on mini projects
+- 📫 How to reach me
+- Moblile Number : 9345686988
 
 <!---
 VisHinu24/VisHinu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
