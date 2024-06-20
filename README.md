@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @VisHinu24
 - 👀 I’m interested in Software engineering
-- 🌱 I’m currently learning C programming and python,javascript
+- Skills: C,python,HTML,CSS,Javascript
+- 🌱 I’m currently learning Express,mongo
 - 💞️ I’m looking to collaborate on mini projects
 - 📫 How to reach me
 - Moblile Number : 9345686988
