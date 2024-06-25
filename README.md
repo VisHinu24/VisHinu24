@@ -13,8 +13,8 @@
 ![](https://img.shields.io/badge/C-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Java%20script-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/HTML-%7C-yellowgreen) ![](https://img.shields.io/badge/CSS-%7C-orange) ![](https://img.shields.io/badge/Web%20Developer-%7C-blue)
 
 <br><br>
-<a href="https://github.com/ankitwarbhe">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=VisHinu24&show_icons=true&theme=dark&line_height=30" alt="Vishinu's github stats"/>
+<a href=https://github.com/VisHinu24>
+ ![Vishinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisHinu24&show_icons=true&theme=radical)
 </a>
 
 <!---
