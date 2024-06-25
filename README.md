@@ -1,10 +1,21 @@
-- 👋 Hi, I’m @VisHinu24
-- 👀 I’m interested in Software engineering
-- Skills: C,python,HTML,CSS,Javascript
-- 🌱 I’m currently learning Express,mongo
-- 💞️ I’m looking to collaborate on mini projects
-- 📫 How to reach me
-- Moblile Number : 9345686988
+## Hi 👋, I'm [Vishinu H!](https://VisHinu24.github.io) 
+ 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+
+- :telescope: I'm currently studying BTech IT 💻;
+- :hourglass_flowing_sand: Learning DSA;
+- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you !  ;
+- :man_technologist: B.Tech(Information Technology), Saveetha Engineering College; 
+- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
+- 📫 How to reach me: vishnuharikaran2005@gmail.com;
+  <br>
+
+![](https://img.shields.io/badge/C-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Java%20script-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/HTML-%7C-yellowgreen) ![](https://img.shields.io/badge/CSS-%7C-orange) ![](https://img.shields.io/badge/Web%20Developer-%7C-blue)
+
+<br><br>
+<a href="https://github.com/ankitwarbhe">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=VisHinu24&show_icons=true&theme=dark&line_height=30" alt="Vishinu's github stats"/>
+</a>
 
 <!---
 VisHinu24/VisHinu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
