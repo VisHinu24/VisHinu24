@@ -2,7 +2,7 @@
  
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-- :telescope: I'm currently studying BTech IT 💻;
+- :telescope: I'm currently studying BTech IT 💻.;
 - :hourglass_flowing_sand: Learning DSA;
 - 💬 I love connecting with different people so if you want any help, I'll be happy to meet you !  ;
 - :man_technologist: B.Tech(Information Technology), Saveetha Engineering College; 
