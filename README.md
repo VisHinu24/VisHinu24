@@ -10,12 +10,13 @@
 - 📫 How to reach me: vishnuharikaran2005@gmail.com;
   <br>
 
-![](https://img.shields.io/badge/C-%3C%2F%3E-blueviolet) ![](https://img.shields.io/badge/Java%20script-%3C%2F%3E-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/HTML-%7C-yellowgreen) ![](https://img.shields.io/badge/CSS-%7C-orange) ![](https://img.shields.io/badge/Web%20Developer-%7C-blue)
+![](https://img.shields.io/badge/C-%7C-blueviolet) ![](https://img.shields.io/badge/Java%20Script-%7C-yellow) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/HTML-%7C-yellowgreen) ![](https://img.shields.io/badge/CSS-%7C-orange) ![](https://img.shields.io/badge/Web%20Developer-%7C-blue)
 
 <br><br>
-<a href=https://github.com/VisHinu24>
- ![Vishinu's GitHub stats](https://github-readme-stats.vercel.app/api?username=VisHinu24&show_icons=true&theme=radical)
-</a>
+
+
+ <img src="https://github-readme-stats.vercel.app/api?username=VisHinu24&show_icons=true&theme=radical&locale=en"/>
+
 
 <!---
 VisHinu24/VisHinu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
