@@ -15,8 +15,6 @@
 <br><br>
 
 
- <img src="https://github-readme-stats.vercel.app/api?username=VisHinu24&show_icons=true&theme=radical&locale=en"/>
-
 
 <!---
 VisHinu24/VisHinu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
