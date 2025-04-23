@@ -2,15 +2,25 @@
  
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-- :telescope: I'm currently studying BTech IT 💻.;
-- :hourglass_flowing_sand: Learning DSA;
-- 💬 I love connecting with different people so if you want any help, I'll be happy to meet you !  ;
-- :man_technologist: B.Tech(Information Technology), Saveetha Engineering College; 
-- :dart: Life Hack: "Explore :fire: and Explode :bomb: with knowledge";
-- 📫 How to reach me: vishnuharikaran2005@gmail.com;
-  <br>
 
-![](https://img.shields.io/badge/Cpp-%7C-blueviolet) ![](https://img.shields.io/badge/C-%7C-blueviolet) ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100) ![](https://img.shields.io/badge/HTML-%7C-yellowgreen) ![](https://img.shields.io/badge/CSS-%7C-orange)
+- 🔭 I'm currently pursuing **B.Tech in Information Technology** at *Saveetha Engineering College*  
+- ⚡ Exploring **Web Development** and actively solving problems in **Codeforces**  
+- 💬 I love connecting with people—feel free to reach out if you ever want to chat or collaborate!  
+- 🎯 Life Hack: *"Explore 🔥 and Explode 💣 with knowledge"*  
+- 📫 Reach me at: **vishnuharikaran2005@gmail.com**
+
+---
+
+### 🛠️ Tech Stack
+
+![](https://img.shields.io/badge/C++-%7C-blueviolet)  ![](https://img.shields.io/badge/C-%7C-blueviolet)  ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/HTML-%7C-yellowgreen)  ![](https://img.shields.io/badge/CSS-%7C-orange)  ![](https://img.shields.io/badge/JavaScript-%7C-yellow)  ![](https://img.shields.io/badge/React-%7C-61DAFB)  
+
+---
+
+### 🔗 Connect with me
+
+- [LinkedIn](https://www.linkedin.com/in/vishinu/)
+- [Codeforces](https://codeforces.com/profile/Vishinu)
 
 <br><br>
 
