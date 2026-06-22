@@ -1,32 +1,50 @@
-## Hi 👋, I'm [Vishinu H!](https://VisHinu24.github.io) 
- 
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
+<h1 align="center">Hi 👋, I'm Vishinu H</h1>
+<h3 align="center">Competitive Programmer | Full Stack Developer</h3>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450" alt="Coder GIF"/>
+</p>
 
-- 🔭 I'm currently pursuing **B.Tech in Information Technology** at *Saveetha Engineering College*  
-- ⚡ Exploring **Web Development** and actively solving problems in **Codeforces**  
-- 💬 I love connecting with people—feel free to reach out if you ever want to chat or collaborate!  
-- 🎯 Life Hack: *"Explore 🔥 and Explode 💣 with knowledge"*  
-- 📫 Reach me at: **vishnuharikaran2005@gmail.com**
 
 ---
 
-### 🛠️ Tech Stack
+## 🚀 About Me
 
-![](https://img.shields.io/badge/C++-%7C-blueviolet)  ![](https://img.shields.io/badge/C-%7C-blueviolet)  ![](https://img.shields.io/badge/Python-%7C-0%2C%2022%2C%20100)  ![](https://img.shields.io/badge/HTML-%7C-yellowgreen)  ![](https://img.shields.io/badge/CSS-%7C-orange)  ![](https://img.shields.io/badge/JavaScript-%7C-yellow)  ![](https://img.shields.io/badge/React-%7C-61DAFB)  
+* 🎓 Pursuing **B.Tech in Information Technology** at **Saveetha Engineering College**
+* 💻 Passionate about **Competitive Programming** and **Web Development**
+* 🏆 Solved **900+ problems** across various coding platforms
+* 🔥 Preparing for **ICPC Regionals**
+* 🤝 Open to collaborations and interesting projects
+
+📫 Reach me at **[vishnuharikaran2005@gmail.com](mailto:vishnuharikaran2005@gmail.com)**
 
 ---
 
-### 🔗 Connect with me
+## 🛠️ Languages and Tools
 
-- [LinkedIn](https://www.linkedin.com/in/vishinu/)
-- [Codeforces](https://codeforces.com/profile/Vishinu)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,html,css,js,react,nodejs,express,mongodb,git,github,vscode,postman" />
+</p>
 
-<br><br>
+---
 
+## 🌐 Connect With Me
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/vishinu/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
 
-<!---
-VisHinu24/VisHinu24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  <a href="https://codeforces.com/profile/Vishinu" target="_blank">
+    <img src="https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=codeforces&logoColor=white"/>
+  </a>
+  <a href="https://leetcode.com/u/Vishinu/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+  <i>Code. Compete. Learn. Repeat. 🚀</i>
+</p>
